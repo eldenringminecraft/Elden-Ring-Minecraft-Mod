@@ -2,9 +2,12 @@
 
 **Elden Ring Minecraft Mod** packs Java notes for elden ring minecraft mod, minecraft elden ring mod, elden ring mod minecraft. Forge 1.20.1 Elden Craft 4.1.0 (September 7, 2026). Sites of Grace, runes, stamina, boss cadence. Paper 26.1 plugin notes in `files/notes/`.
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e8adb036-4771-4dcb-bc7e-3611fa3f8761" />
+<img width="739" height="415" alt="image" src="https://github.com/user-attachments/assets/d0f24d3e-582c-4d18-924c-fbe2d703d031" />
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ca3b1aa4-eda1-4be8-ab26-d6ba65657640" />
+
+
+<img width="385" height="217" alt="image" src="https://github.com/user-attachments/assets/2b9af309-058b-4230-9230-ef00e2216754" />
 
 ## What's new in 4.1.0 (September 7, 2026)
 - Elden Craft 4.1.0 for Forge 1.20.1
